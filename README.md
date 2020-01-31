@@ -11,4 +11,5 @@
 Выполнен адаптив;
 Минифицированы файлы css, js, png, jpg с помощью различных сервисов;
 Добавлен autoprefix;
+Главный файл js перекомпилирован из ES6 в ES5 с помощью Babel;
 Ссылка на макет: https://www.figma.com/file/ClPSP7KCU1NbvxMXA914hlFk/travel-landing-page-jacobvoyles?node-id=0%3A2
