@@ -9,4 +9,6 @@
 Вставлено видео из Youtube;
 Подключена CMS Textolite для статичных сайтов с изменением текста, ссылка на админку: https://travel-to-japan.000webhostapp.com/textolite/index.html
 Выполнен адаптив;
+Минифицированы файлы css, js, png, jpg с помощью различных сервисов;
+Добавлен autoprefix;
 Ссылка на макет: https://www.figma.com/file/ClPSP7KCU1NbvxMXA914hlFk/travel-landing-page-jacobvoyles?node-id=0%3A2
